@@ -6,6 +6,9 @@ I'm very interested in clinical data science and applying what I've learned to l
 
 I am also the the developer of [PediTools](https://peditools.org/). The goal of PediTools is to provide medical calculators and links to references useful for practicing pediatric providers.
 
+Occasionally, I post clinical analyses, small coding projects, or ruminations on a blog, [Incidental Findings](https://incidentalfindings.org/).
+
+
 <!--
 **jhchou/jhchou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
