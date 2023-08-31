@@ -1,4 +1,10 @@
-### Hi there 👋
+### Who am I?
+
+Clinical neonatologist and unabashed geek who enjoys exploring technology and how it can be used to improve patient care.
+
+I'm very interested in clinical data science and applying what I've learned to large patient datasets, for example by developing clinical quality improvement dashboards or generating predictive models for clinical outcomes.
+
+I am also the the developer of [PediTools](https://peditools.org/). The goal of PediTools is to provide medical calculators and links to references useful for practicing pediatric providers.
 
 <!--
 **jhchou/jhchou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
